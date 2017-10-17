@@ -2,7 +2,9 @@
 - Working with Tensorboard
 - Easy examples with MLP
 - Easy examples with RNN, Attention model, GAN
-## Install requirement packages with a virtual enviroment using annaconda (highly recommended):
+## Install requirement packages
+
+Install requirement packages with a virtual enviroment using annaconda (highly recommended):
 ```
 conda create --name tf_examples python=2.7
 source activate tf_examples
